@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+
+footer{
+    color: black;
+    height: 25vh;
+    width: 100%;
+    background: url(https://kq-storage.s3.ap-south-1.amazonaws.com/Github/canvas_clock/footer.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    font-weight: 800;
+    font-size: large;
+}
+
+#canvas{
+    /* border: 2px solid red; */
+    display: block;
+    margin: auto;
+}
